@@ -10,7 +10,7 @@ aiofiles
 dnspython
 motor[srv]
 beautifulsoup4
-pyrogram
+pyrofork==2.2.11
 datetime 
 pytz 
 requests 
